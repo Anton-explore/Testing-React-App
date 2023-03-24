@@ -34,7 +34,7 @@
   "include": [
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/components/BigCommunity/BigCommunity.test,tsx"  ],
   "exclude": [
     "node_modules"
   ]
